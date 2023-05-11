@@ -2,8 +2,16 @@ This is just a bit of junk to populate this folder for a git test.
 
 A fresh empty repository has been made in dormouseroared on github.
 
-1. push an existing repository from the command line
+1. In local, git add . then git commit -m "first commit" to create a local repo with something in it.
+
+2. push an existing repository from the command line
 
 git remote add origin https://github.com/dormouseroared/git-test-1.git
 git branch -M main
 git push -u origin main
+
+3. check on github that the repo is updated.
+
+4. Update the repo on github.
+
+5. update the local repo.
