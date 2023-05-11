@@ -1,0 +1,9 @@
+This is just a bit of junk to populate this folder for a git test.
+
+A fresh empty repository has been made in dormouseroared on github.
+
+1. push an existing repository from the command line
+
+git remote add origin https://github.com/dormouseroared/git-test-1.git
+git branch -M main
+git push -u origin main
