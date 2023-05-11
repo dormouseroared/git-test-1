@@ -15,3 +15,5 @@ git push -u origin main
 4. Update the repo on github.
 
 5. update the local repo.
+
+6. completed using git pull after checking git status.
